@@ -11,3 +11,9 @@
 
   # Here is a simple block diagram I've made:
 <img width="862" height="872" alt="BL-Car-diagram drawio" src="https://github.com/user-attachments/assets/64948940-fa58-4cfb-bafe-45f5a1c6b732" />
+
+
+
+# A short video with the car working.
+https://github.com/user-attachments/assets/c09909c2-9142-4837-a47e-601cc32a43b7
+
