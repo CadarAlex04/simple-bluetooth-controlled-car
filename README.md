@@ -8,3 +8,6 @@
   Power is supplied via a simple battery rack containing six AAA batteries, providing approximately 9V. This is enough to power both the Arduino and the motor driver. All components share a common ground connection to ensure stable operation.
 
   To get it working, you just need to upload the provided Arduino code (btcar.ino) using the Arduino IDE. The code includes the Dabble library for Bluetooth control, so be sure to install that library beforehand from the Arduino Library Manager. Once uploaded, pair your phone with the Bluetooth module, open the app and start driving.
+
+  # Here is a simple block diagram I've made:
+<img width="862" height="872" alt="BL-Car-diagram drawio" src="https://github.com/user-attachments/assets/64948940-fa58-4cfb-bafe-45f5a1c6b732" />
